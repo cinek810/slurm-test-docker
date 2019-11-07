@@ -1,0 +1,4 @@
+#tesla|4|3-7|-1,0,0,0|/dev//nvidia0|
+#tesla|4|3-7|0,-1,0,0|/dev/nvidia1|
+#tesla|4|3-7|0,0,-1,0|/dev/nvidia2|
+#tesla|4|3-7|0,0,0,-1|/dev/nvidia3|
